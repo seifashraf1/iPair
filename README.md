@@ -1,2 +1,2 @@
 # iPair
-A simple React.js app that creates pairs of registered users for any purpose
+A simple React Native app that creates pairs of registered users for any purpose
